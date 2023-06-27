@@ -1,0 +1,14 @@
+@use "abstract/colors";
+@use "abstract/var";
+
+@use "base/resets";
+
+
+@use "components/mailSub";
+
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
